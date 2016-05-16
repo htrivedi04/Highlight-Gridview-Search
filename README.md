@@ -1,2 +1,2 @@
 # Highlight-Gridview-Search
-Searches and highlights a keyword in the gridview
+Searches and highlights the searched keyword in the gridview in C#.NET
